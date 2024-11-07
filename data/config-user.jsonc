@@ -37,7 +37,7 @@
     "etc": {
         "editMode": false, // 編集メニューの表示/非表示
         "thumbnailWidth": "240",
-        "splashUrl": "./image/splash.png"
+        "splashUrl": "./image/splash.jpg"
     },
     "selectItem": {
         // 選択リストの内容を手動記載 / 空の時は "" とする
@@ -70,8 +70,8 @@
         "targetName": "activity"
     },
     "static": {
-        "mode": false,
-        "osmjson": "./data/HigayodoStreetMap2024.json"
+        "mode": true,
+        "osmjson": "./data/HigaYodoStores.json"
     },
     "menu": {
         "main": [
@@ -80,11 +80,6 @@
                 "glot-model": "about",
                 "linkto": "javascript:cMapMaker.about()",
                 "divider": false
-            },
-            {
-                "glot-model": "owner",
-                "linkto": "",
-                "divider": true
             },
             {
                 "glot-model": "licence_title",

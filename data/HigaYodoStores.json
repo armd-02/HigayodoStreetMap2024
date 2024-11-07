@@ -1,0 +1,741 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.2 58ef4056",
+  "osm3s": {
+    "timestamp_osm_base": "2024-11-07T10:11:16Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1633692597,
+  "lat": 34.7431517,
+  "lon": 135.5298310,
+  "timestamp": "2024-10-29T12:38:53Z",
+  "version": 3,
+  "changeset": 158496272,
+  "user": "K_Sakanoshita",
+  "uid": 389520,
+  "tags": {
+    "amenity": "social_facility",
+    "contact:instagram": "workcenter_houshin",
+    "name": "ワークセンター豊新",
+    "phone": "+816-6990-8270",
+    "social_facility": "assisted_living"
+  }
+},
+{
+  "type": "node",
+  "id": 3464834924,
+  "lat": 34.7492326,
+  "lon": 135.5341391,
+  "timestamp": "2024-04-02T02:01:26Z",
+  "version": 4,
+  "changeset": 149458651,
+  "user": "ぴったりんく",
+  "uid": 8668483,
+  "tags": {
+    "amenity": "restaurant",
+    "contact:twitter": "@steak_takeru_jp",
+    "cuisine": "steak_house",
+    "name": "まごころタケル食堂",
+    "opening_hours": "Mo-Su 11:30-15:00,18:00-22:00; Fr,Sa 11:30-15:00,18:00-22:30",
+    "opening_hours:covid19": "M-Sa 11:30-15:00, 17:00-20:00; PH off",
+    "takeaway:covid19": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3464901893,
+  "lat": 34.7400925,
+  "lon": 135.5184915,
+  "timestamp": "2020-08-29T14:54:14Z",
+  "version": 3,
+  "changeset": 90122151,
+  "user": "Wish_F",
+  "uid": 6972989,
+  "tags": {
+    "amenity": "fast_food",
+    "name": "たこやん",
+    "takeaway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3916117306,
+  "lat": 34.7382106,
+  "lon": 135.5426696,
+  "timestamp": "2016-08-19T05:29:31Z",
+  "version": 2,
+  "changeset": 41548733,
+  "user": "mds878",
+  "uid": 563872,
+  "tags": {
+    "addr:city": "東淀川区",
+    "addr:housenumber": "5-1-2",
+    "addr:postcode": "5330013",
+    "addr:street": "豊里",
+    "amenity": "restaurant",
+    "cuisine": "coffee_shop",
+    "name": "Moricafe",
+    "opening_hours": "Mo-Fr 07:00-17:00; We off; Sa,Su,PH 07:00-15:00"
+  }
+},
+{
+  "type": "node",
+  "id": 5224243525,
+  "lat": 34.7405807,
+  "lon": 135.5164050,
+  "timestamp": "2024-08-15T10:19:02Z",
+  "version": 5,
+  "changeset": 155276097,
+  "user": "Shinji Enoki",
+  "uid": 420519,
+  "tags": {
+    "amenity": "public_bath",
+    "bath:type": "hot_spring",
+    "check_date": "2024-08-15",
+    "name": "昭和湯",
+    "opening_hours": "Mo-Tu,Th-Su 14:45-23:00; We off; Sa 07:00-09:30"
+  }
+},
+{
+  "type": "node",
+  "id": 5224262622,
+  "lat": 34.7400757,
+  "lon": 135.5147222,
+  "timestamp": "2022-02-21T14:58:29Z",
+  "version": 3,
+  "changeset": 117685893,
+  "user": "Wish_F",
+  "uid": 6972989,
+  "tags": {
+    "amenity": "cafe",
+    "name": "珈琲トーホー"
+  }
+},
+{
+  "type": "node",
+  "id": 5423723230,
+  "lat": 34.7507766,
+  "lon": 135.5336825,
+  "timestamp": "2023-08-12T02:24:32Z",
+  "version": 2,
+  "changeset": 139771552,
+  "user": "openamap",
+  "uid": 94381,
+  "tags": {
+    "amenity": "cafe",
+    "name": "喫茶 キャッスル"
+  }
+},
+{
+  "type": "node",
+  "id": 5423723323,
+  "lat": 34.7520448,
+  "lon": 135.5352544,
+  "timestamp": "2024-10-29T12:35:26Z",
+  "version": 5,
+  "changeset": 158496119,
+  "user": "K_Sakanoshita",
+  "uid": 389520,
+  "tags": {
+    "amenity": "pub",
+    "contact:facebook": "https://www.facebook.com/%E5%91%B3%E5%B7%A5%E6%88%BF%E3%81%97%E3%81%B0%E3%81%BE%E3%82%93-1412640972337870/",
+    "name": "味工房しばまん",
+    "name:en": "Shibaman",
+    "opening_hours": "17:30-22:30; Mo off",
+    "opening_hours:covid19": "17:00-20:00; Mo off",
+    "phone": "+816-6321-4696",
+    "takeaway:covid19": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7425697910,
+  "lat": 34.7400334,
+  "lon": 135.5105872,
+  "timestamp": "2021-05-11T13:41:46Z",
+  "version": 2,
+  "changeset": 104516497,
+  "user": "Wish_F",
+  "uid": 6972989,
+  "tags": {
+    "craft": "brewery",
+    "man_made": "works",
+    "microbrewery": "yes",
+    "name": "上方ビール",
+    "opening_hours": "Sa-Su 12:00-17:00"
+  }
+},
+{
+  "type": "node",
+  "id": 7448600079,
+  "lat": 34.7403156,
+  "lon": 135.5154578,
+  "timestamp": "2024-04-04T11:30:46Z",
+  "version": 2,
+  "changeset": 149565747,
+  "user": "Wish_F",
+  "uid": 6972989,
+  "tags": {
+    "name": "Cozy Home",
+    "office": "estate_agent"
+  }
+},
+{
+  "type": "node",
+  "id": 7486649405,
+  "lat": 34.7541802,
+  "lon": 135.5492628,
+  "timestamp": "2024-11-01T11:39:45Z",
+  "version": 2,
+  "changeset": 158614988,
+  "user": "K_Sakanoshita",
+  "uid": 389520,
+  "tags": {
+    "amenity": "cafe",
+    "contact:instagram": "coffeebeanswork",
+    "name": "COFFEE BEANS WORK",
+    "opening_hours": "10:00-19:00",
+    "takeaway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7487254934,
+  "lat": 34.7524568,
+  "lon": 135.5437133,
+  "timestamp": "2020-05-05T20:29:58Z",
+  "version": 1,
+  "changeset": 84716873,
+  "user": "Wish_F",
+  "uid": 6972989,
+  "tags": {
+    "name": "のびる屋",
+    "opening_hours": "11:00-21:00; We off",
+    "shop": "deli",
+    "takeaway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7503784749,
+  "lat": 34.7408306,
+  "lon": 135.5152796,
+  "timestamp": "2024-09-09T22:02:08Z",
+  "version": 2,
+  "changeset": 156415802,
+  "user": "Wish_F",
+  "uid": 6972989,
+  "tags": {
+    "name": "オレンジ",
+    "office": "educational_institution"
+  }
+},
+{
+  "type": "node",
+  "id": 8190960990,
+  "lat": 34.7425213,
+  "lon": 135.5139530,
+  "timestamp": "2024-04-10T15:22:03Z",
+  "version": 4,
+  "changeset": 149825584,
+  "user": "Wish_F",
+  "uid": 6972989,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "chinese;gyoza",
+    "level": "0",
+    "name": "生餃子製作所 万福",
+    "opening_hours": "Mo-Fr 11:30-15:00,17:00-21:00; Sa-Su off",
+    "takeaway": "yes",
+    "website": "https://manpuku.jimdosite.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 9817343475,
+  "lat": 34.7502168,
+  "lon": 135.5340408,
+  "timestamp": "2023-08-14T03:50:15Z",
+  "version": 4,
+  "changeset": 139851118,
+  "user": "taki3hira",
+  "uid": 1948193,
+  "tags": {
+    "check_date": "2023-08-11",
+    "dance:teaching": "yes",
+    "email": "m.house1101@gmail.com",
+    "leisure": "dance",
+    "level": "1",
+    "name": "ミュージックハウスDJ"
+  }
+},
+{
+  "type": "node",
+  "id": 10773052976,
+  "lat": 34.7409647,
+  "lon": 135.5122859,
+  "timestamp": "2024-10-29T12:00:55Z",
+  "version": 3,
+  "changeset": 158494817,
+  "user": "K_Sakanoshita",
+  "uid": 389520,
+  "tags": {
+    "amenity": "restaurant",
+    "check_date": "2023-03-30",
+    "contact:instagram": "cocorocurry_syokudo",
+    "cuisine": "curry",
+    "level": "0",
+    "name": "こころカレー食堂",
+    "phone": "+816-6770-9113"
+  }
+},
+{
+  "type": "node",
+  "id": 10934142412,
+  "lat": 34.7402375,
+  "lon": 135.5140460,
+  "timestamp": "2023-05-28T15:24:21Z",
+  "version": 1,
+  "changeset": 136661217,
+  "user": "Wish_F",
+  "uid": 6972989,
+  "tags": {
+    "level": "0",
+    "name": "青空野菜やっちゃば",
+    "shop": "greengrocer"
+  }
+},
+{
+  "type": "node",
+  "id": 10981963243,
+  "lat": 34.7438275,
+  "lon": 135.5196380,
+  "timestamp": "2023-06-17T07:12:37Z",
+  "version": 1,
+  "changeset": 137437362,
+  "user": "Wish_F",
+  "uid": 6972989,
+  "tags": {
+    "addr:floor": "1",
+    "amenity": "cafe",
+    "check_date": "2023-06-17",
+    "level": "0",
+    "name": "Kurutto 8CAFE",
+    "opening_hours": "Mo-Fr 10:00-16:00; Sa-Su,PH off"
+  }
+},
+{
+  "type": "node",
+  "id": 11496154060,
+  "lat": 34.7403290,
+  "lon": 135.5150415,
+  "timestamp": "2024-01-07T04:27:58Z",
+  "version": 1,
+  "changeset": 145978263,
+  "user": "Wish_F",
+  "uid": 6972989,
+  "tags": {
+    "check_date": "2024-01-07",
+    "craft": "confectionery",
+    "level": "0",
+    "name": "祥華堂"
+  }
+},
+{
+  "type": "node",
+  "id": 11738471894,
+  "lat": 34.7515621,
+  "lon": 135.5434722,
+  "timestamp": "2024-03-17T09:29:18Z",
+  "version": 1,
+  "changeset": 148763179,
+  "user": "K_Sakanoshita",
+  "uid": 389520,
+  "tags": {
+    "amenity": "cafe",
+    "check_date": "2024-03-17",
+    "cuisine": "coffee_shop",
+    "name": "caffe 耕"
+  }
+},
+{
+  "type": "node",
+  "id": 11765930909,
+  "lat": 34.7587505,
+  "lon": 135.5504212,
+  "timestamp": "2024-03-27T10:53:07Z",
+  "version": 1,
+  "changeset": 149218865,
+  "user": "K_Sakanoshita",
+  "uid": 389520,
+  "tags": {
+    "amenity": "cafe",
+    "contact:instagram": "coffee_halo",
+    "name": "コーヒーハロ",
+    "name:en": "coffee halo",
+    "outdoor_seating": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11765959347,
+  "lat": 34.7490813,
+  "lon": 135.5286180,
+  "timestamp": "2024-03-27T11:09:59Z",
+  "version": 1,
+  "changeset": 149219619,
+  "user": "K_Sakanoshita",
+  "uid": 389520,
+  "tags": {
+    "amenity": "social_facility",
+    "name": "学習支援教室こころん",
+    "website": "http://cocoron.club/"
+  }
+},
+{
+  "type": "node",
+  "id": 11980029501,
+  "lat": 34.7401806,
+  "lon": 135.5154944,
+  "timestamp": "2024-06-14T03:46:40Z",
+  "version": 1,
+  "changeset": 152657029,
+  "user": "Wish_F",
+  "uid": 6972989,
+  "tags": {
+    "amenity": "cafe",
+    "check_date": "2024-06-14",
+    "name": "大阪黒船屋",
+    "opening_hours": "09:00-21:00"
+  }
+},
+{
+  "type": "node",
+  "id": 12296544472,
+  "lat": 34.7458514,
+  "lon": 135.5342647,
+  "timestamp": "2024-10-29T13:21:57Z",
+  "version": 1,
+  "changeset": 158498176,
+  "user": "K_Sakanoshita",
+  "uid": 389520,
+  "tags": {
+    "amenity": "pub",
+    "name": "居酒屋 木楽"
+  }
+},
+{
+  "type": "node",
+  "id": 12296672564,
+  "lat": 34.7452464,
+  "lon": 135.5333107,
+  "timestamp": "2024-10-29T13:44:22Z",
+  "version": 1,
+  "changeset": 158499087,
+  "user": "K_Sakanoshita",
+  "uid": 389520,
+  "tags": {
+    "amenity": "cafe",
+    "contact:instagram": "nyccafe___acaibowl",
+    "name": "NYC CAFE"
+  }
+},
+{
+  "type": "node",
+  "id": 12296672565,
+  "lat": 34.7430909,
+  "lon": 135.5347528,
+  "timestamp": "2024-10-29T13:44:22Z",
+  "version": 1,
+  "changeset": 158499087,
+  "user": "K_Sakanoshita",
+  "uid": 389520,
+  "tags": {
+    "amenity": "restaurant",
+    "contact:instagram": "wakka.2024",
+    "name": "食堂 わっか",
+    "phone": "+816-6300-7051"
+  }
+},
+{
+  "type": "node",
+  "id": 12296672566,
+  "lat": 34.7412712,
+  "lon": 135.5478298,
+  "timestamp": "2024-10-29T13:44:22Z",
+  "version": 1,
+  "changeset": 158499087,
+  "user": "K_Sakanoshita",
+  "uid": 389520,
+  "tags": {
+    "amenity": "restaurant",
+    "contact:instagram": "tocosacava",
+    "name": "TOKOSACAVA"
+  }
+},
+{
+  "type": "node",
+  "id": 12296672567,
+  "lat": 34.7407872,
+  "lon": 135.5411694,
+  "timestamp": "2024-10-29T13:44:22Z",
+  "version": 1,
+  "changeset": 158499087,
+  "user": "K_Sakanoshita",
+  "uid": 389520,
+  "tags": {
+    "amenity": "prep_school",
+    "name": "豊里フリールーム・カルチャースクール",
+    "phone": "+8180-8333-1318",
+    "website": "https://freeroom.cloud-line.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 12296672568,
+  "lat": 34.7514892,
+  "lon": 135.5355915,
+  "timestamp": "2024-10-29T13:44:22Z",
+  "version": 1,
+  "changeset": 158499087,
+  "user": "K_Sakanoshita",
+  "uid": 389520,
+  "tags": {
+    "contact:instagram": "oyanchannel",
+    "name": "新鮮青果おーやん",
+    "shop": "greengrocer"
+  }
+},
+{
+  "type": "node",
+  "id": 12296672569,
+  "lat": 34.7506477,
+  "lon": 135.5334104,
+  "timestamp": "2024-10-29T13:44:22Z",
+  "version": 1,
+  "changeset": 158499087,
+  "user": "K_Sakanoshita",
+  "uid": 389520,
+  "tags": {
+    "amenity": "bar",
+    "contact:instagram": "elcamino_kamishinjo",
+    "name": "TEXMEX KITCHEN & BAR EL CAMINO",
+    "phone": "+816-6328-7933"
+  }
+},
+{
+  "type": "node",
+  "id": 12296672570,
+  "lat": 34.7425033,
+  "lon": 135.5321952,
+  "timestamp": "2024-10-29T13:44:22Z",
+  "version": 1,
+  "changeset": 158499087,
+  "user": "K_Sakanoshita",
+  "uid": 389520,
+  "tags": {
+    "contact:instagram": "sunsun_art",
+    "name": "sunsun",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 12296672571,
+  "lat": 34.7492822,
+  "lon": 135.5358580,
+  "timestamp": "2024-10-29T13:44:22Z",
+  "version": 1,
+  "changeset": 158499087,
+  "user": "K_Sakanoshita",
+  "uid": 389520,
+  "tags": {
+    "amenity": "library",
+    "contact:instagram": "cicciabooks",
+    "name": "ちっちゃBooks"
+  }
+},
+{
+  "type": "node",
+  "id": 12299315649,
+  "lat": 34.7471574,
+  "lon": 135.5364525,
+  "timestamp": "2024-10-30T12:12:07Z",
+  "version": 1,
+  "changeset": 158538444,
+  "user": "K_Sakanoshita",
+  "uid": 389520,
+  "tags": {
+    "amenity": "pub",
+    "name": "居酒屋ゆうな"
+  }
+},
+{
+  "type": "node",
+  "id": 12299403635,
+  "lat": 34.7407148,
+  "lon": 135.5412426,
+  "timestamp": "2024-10-30T12:50:46Z",
+  "version": 1,
+  "changeset": 158540151,
+  "user": "K_Sakanoshita",
+  "uid": 389520,
+  "tags": {
+    "amenity": "arts_centre",
+    "contact:instagram": "atelierem5",
+    "name": "アトリエエム",
+    "website": "https://www.atelierm.okeiko-kidz.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 12299428170,
+  "lat": 34.7498079,
+  "lon": 135.5348375,
+  "timestamp": "2024-10-30T13:02:37Z",
+  "version": 1,
+  "changeset": 158540652,
+  "user": "K_Sakanoshita",
+  "uid": 389520,
+  "tags": {
+    "amenity": "kindergarten",
+    "contact:instagram": "codomonoart",
+    "name": "こどもなーと"
+  }
+},
+{
+  "type": "node",
+  "id": 12299460673,
+  "lat": 34.7521831,
+  "lon": 135.5440249,
+  "timestamp": "2024-10-30T13:07:27Z",
+  "version": 1,
+  "changeset": 158540819,
+  "user": "K_Sakanoshita",
+  "uid": 389520,
+  "tags": {
+    "amenity": "cafe",
+    "contact:phone": "+816-6325-4963",
+    "name": "喫茶グリーンハウス"
+  }
+},
+{
+  "type": "node",
+  "id": 12299488884,
+  "lat": 34.7517489,
+  "lon": 135.5358068,
+  "timestamp": "2024-10-30T13:16:48Z",
+  "version": 1,
+  "changeset": 158541200,
+  "user": "K_Sakanoshita",
+  "uid": 389520,
+  "tags": {
+    "name": "酒 前田",
+    "shop": "alcohol",
+    "website": "https://sakemaeda.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 12304242929,
+  "lat": 34.7332934,
+  "lon": 135.5579426,
+  "timestamp": "2024-11-01T11:53:26Z",
+  "version": 1,
+  "changeset": 158615470,
+  "user": "K_Sakanoshita",
+  "uid": 389520,
+  "tags": {
+    "contact:instagram": "lets_personal_training_gym",
+    "leisure": "fitness_centre",
+    "name": "レッツパーソナルトレーニングジム",
+    "website": "https://www.letspersonaltraininggym.com/"
+  }
+},
+{
+  "type": "way",
+  "id": 717046718,
+  "timestamp": "2024-11-01T11:14:46Z",
+  "version": 5,
+  "changeset": 158614136,
+  "user": "K_Sakanoshita",
+  "uid": 389520,
+  "nodes": [
+    6734556157,
+    6734556158,
+    6734556159,
+    7487254931,
+    7487254932,
+    6734556160,
+    7487254929,
+    7487254930,
+    6734556157
+  ],
+  "tags": {
+    "amenity": "public_bath",
+    "bath:open_air": "yes",
+    "bath:type": "onsen",
+    "building": "yes",
+    "check_date": "2024-06-06",
+    "fee": "yes",
+    "layer": "1",
+    "name": "天然温泉 満月",
+    "opening_hours": "10:00-03:00",
+    "website": "http://www.onsen-mangetsu.jp/"
+  }
+},
+{
+  "type": "node",
+  "id": 6734556157,
+  "lat": 34.7514867,
+  "lon": 135.5334792
+},
+{
+  "type": "node",
+  "id": 6734556158,
+  "lat": 34.7517804,
+  "lon": 135.5334975
+},
+{
+  "type": "node",
+  "id": 6734556159,
+  "lat": 34.7517846,
+  "lon": 135.5333965
+},
+{
+  "type": "node",
+  "id": 6734556160,
+  "lat": 34.7515480,
+  "lon": 135.5333366
+},
+{
+  "type": "node",
+  "id": 7487254929,
+  "lat": 34.7515461,
+  "lon": 135.5333817
+},
+{
+  "type": "node",
+  "id": 7487254930,
+  "lat": 34.7514909,
+  "lon": 135.5333783
+},
+{
+  "type": "node",
+  "id": 7487254931,
+  "lat": 34.7517297,
+  "lon": 135.5333931
+},
+{
+  "type": "node",
+  "id": 7487254932,
+  "lat": 34.7517316,
+  "lon": 135.5333480
+}
+
+  ]
+}
